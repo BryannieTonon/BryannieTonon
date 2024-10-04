@@ -1,4 +1,5 @@
-## Hi there 👋
+
+Graduanda em física pela Universidade Federal de Viçosa.
 
 <!--
 **BryannieTonon/BryannieTonon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
